@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I'm Bella Sosa — a language graduate diving into the world of tech. I'm currently learning web development with the goal of becoming a Full Stack Developer. Passionate about building creative and meaningful projects, and always excited to learn something new.<br><br>🌱 Currently learning: HTML, CSS, JavaScript<br>💻 Interests: Web development, design, accessibility<br>📍 Based in: Buenos Aires (originally from Honduras 🇭🇳)<br>🎯 Always curious. Always growing.<br><br>
 
-## 💻 Proyects:
+## 💻 Projects:
 🌿 Honduran Wildlife is a web project that showcases the diverse and unique animal species found in Honduras. Built as part of my learning journey in web development, this site combines beautiful visuals with educational content to raise awareness about the country's rich biodiversity.
 
 🔧 Tech used: HTML, CSS (and more coming soon!)<br>
